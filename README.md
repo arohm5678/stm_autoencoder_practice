@@ -8,7 +8,7 @@ The code in the *modular_autoencoder* directory is meant to simplify the process
 # Initialization Instructions
 1. Once logged in to the Theia environment, ensure that you have set up the git environment using the following command:
 ```
-    git clone https://github.com/jonesnt/autoencoders.git
+    git clone [https://github.com/arohm5678/stm_autoencoder_practice.git]
 ```
 **YOU ONLY NEED TO DO THIS ONCE**
 
